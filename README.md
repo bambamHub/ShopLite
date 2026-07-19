@@ -2,6 +2,10 @@
 
 A small product store built against [dummyjson.com](https://dummyjson.com) — login, browse/search/filter products, product detail, and a persisted cart.
 
+Login Page -> 
+<img width="1893" height="1021" alt="image" src="https://github.com/user-attachments/assets/3c346bd6-04c9-4dc3-bccf-4e308c5e0220" />
+
+
 ## Stack
 
 - **React 19 + Vite + TypeScript**
