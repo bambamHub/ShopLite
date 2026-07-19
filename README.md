@@ -86,8 +86,8 @@ Feature-based, not type-based — everything related to cart (state, selectors, 
 - No E2E tests; given more time, I'd add Vitest + Testing Library for the cart reducer/selectors and the login form's validation states first, since those are the highest-value units.
 - Token expiry is time-boxed to dummyjson's mocked 60-minute token; there's no refresh-token flow wired up since dummyjson's refresh endpoint isn't needed for a 60-minute demo session.
 
-- 👨‍💻 Author
+##👨‍💻 Author
 
-**Bambam Kumar Gupta**  
+**Bambam Kumar Gupta**
 Final Year B.Tech, Motilal Nehru National Institute of Technology (MNNIT) Allahabad
 
