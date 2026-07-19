@@ -5,13 +5,10 @@ A small product store built against [dummyjson.com](https://dummyjson.com) — l
 Login Page -> 
 <img width="1893" height="1021" alt="image" src="https://github.com/user-attachments/assets/3c346bd6-04c9-4dc3-bccf-4e308c5e0220" />
 
-Home Page ->
-<img width="1907" height="1025" alt="image" src="https://github.com/user-attachments/assets/1bbd7e3f-37f3-42ba-aead-205642dc8e68" />
-
 Products Page -> 
 <img width="1913" height="1032" alt="image" src="https://github.com/user-attachments/assets/c2c6e1af-82a8-4b51-b180-236688098868" />
 
-Products Page -> 
+Catalog Page -> 
 <img width="1913" height="1028" alt="image" src="https://github.com/user-attachments/assets/0e65aece-6ccb-4bb7-9b1d-659123417d39" />
 
 Products Description Page -> 
