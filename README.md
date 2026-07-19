@@ -2,6 +2,9 @@
 
 A small product store built against [dummyjson.com](https://dummyjson.com) — login, browse/search/filter products, product detail, and a persisted cart.
 
+🌐 Live Demo
+**Website:** https://shop-lite-bambam.vercel.app
+
 Login Page -> 
 <img width="1893" height="1021" alt="image" src="https://github.com/user-attachments/assets/3c346bd6-04c9-4dc3-bccf-4e308c5e0220" />
 
@@ -82,3 +85,9 @@ Feature-based, not type-based — everything related to cart (state, selectors, 
 - dummyjson's category endpoint returns `{slug, name, url}` objects in some environments and plain strings in others — `transformResponse` normalizes both, but a real API contract would remove that ambiguity.
 - No E2E tests; given more time, I'd add Vitest + Testing Library for the cart reducer/selectors and the login form's validation states first, since those are the highest-value units.
 - Token expiry is time-boxed to dummyjson's mocked 60-minute token; there's no refresh-token flow wired up since dummyjson's refresh endpoint isn't needed for a 60-minute demo session.
+
+- 👨‍💻 Author
+
+**Bambam Kumar Gupta**  
+Final Year B.Tech, Motilal Nehru National Institute of Technology (MNNIT) Allahabad
+
