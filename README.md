@@ -8,7 +8,7 @@ Login Page ->
 Home Page ->
 <img width="1907" height="1025" alt="image" src="https://github.com/user-attachments/assets/1bbd7e3f-37f3-42ba-aead-205642dc8e68" />
 
-Categories Page -> 
+Products Page -> 
 <img width="1913" height="1032" alt="image" src="https://github.com/user-attachments/assets/c2c6e1af-82a8-4b51-b180-236688098868" />
 
 Products Page -> 
